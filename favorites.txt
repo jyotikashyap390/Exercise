@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Chicken 
 Mutton
 Chicken again.
+=======
+twilight 
+game of thrones
+harry potter.
+>>>>>>> movies
